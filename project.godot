@@ -47,3 +47,10 @@ move_left={
 , Object(InputEventJoypadMotion,"resource_local_to_scene":false,"resource_name":"","device":0,"axis":0,"axis_value":-1.0,"script":null)
  ]
 }
+
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Ball"
+2d_physics/layer_3="Bricks"
+2d_physics/layer_4="Walls"
